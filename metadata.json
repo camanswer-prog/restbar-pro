@@ -1,0 +1,6 @@
+{
+  "name": "RESTBAR PRO - Gestion Bar & Restaurant Multi-Établissements",
+  "description": "Plateforme SaaS multi-établissements sécurisée pour bars et restaurants avec authentification Supabase, RLS PostgreSQL, gestion des rôles et licences PRO.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
